@@ -1,3 +1,5 @@
+"use strict";
+
 const title = document.createElement("h1");
 title.setAttribute("class", "title");
 title.innerHTML = "Virtual Keyboard";
